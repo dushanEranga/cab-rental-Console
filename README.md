@@ -19,6 +19,21 @@ The system contains two parts.
     JavaScript
     SQL
     Google map API
+## Features
+A few of the things you can do with the console
+
+Admin features
+* Add user accounts
+* Manage user accounts
+* Update vehicles details such as per day charge, repair history and relavent photo.
+
+All user features
+* Register new customers.
+* Rent out vehicles for customers.
+* Generate, print and pay the bil.
+* View current loacations and completed milages of vehicles using google map(The red mark arround Badulla is the only vehicle that linked with the microcontroller.Other markers are for the demonstration purpose)
+* Receipt reprints.
+
 ## Preview
 For live web app - 
 Use Below credintials 
@@ -29,6 +44,10 @@ Use Below credintials
     * username - dush@gmail.com
     * password - 123456
     
-[Login from Here](http://mytestings.dushaneranga.tech)
+[Login From Here](http://mytestings.dushaneranga.tech)
 
 [Demo Video Here](http://mytestings.dushaneranga.tech)
+
+## To-Do List
+
+This project is currently being inactive for nearly 2 years. But for learning purposes, I will built the missing modules such as Taxi management, adding new vehicles, Renting out for saved customers, refining trickey user interfaces etc...
